@@ -1,2 +1,2 @@
 # SERVER RUN
-node server.js
+Run `node server.js`
