@@ -1,0 +1,34 @@
+[
+  {
+    "name": "John Doe",
+    "email": "a@a.com",
+    "password": "$2b$10$Flwye4ReHILbq2q.QsVCDu/dKNMaBoyvpgY1CprU7YIuFz0HwDfQ2",
+    "phone": "01225456215",
+    "age": "12",
+    "address": "asd"
+  },
+  {
+    "name": "p",
+    "email": "p@pp.com",
+    "password": "$2b$10$5MuzvBag56JHRmV.hl2el.5A/YkQy2FNqln8.QEdUG9nm0BUc/nS6",
+    "phone": "01234567890",
+    "age": "20",
+    "address": "0ad"
+  },
+  {
+    "name": "hgfhdfj",
+    "email": "sfdf@gdsd.com",
+    "password": "$2b$10$K56Hso0Mh2Z9yn7gKldhReygUlVuFl0396NLmr8SUng2rGn56.yXC",
+    "phone": "01201234567",
+    "age": 25,
+    "address": "ghfgjfhmfyk"
+  },
+  {
+    "name": "hfgxh",
+    "email": "fdhfdh@gsdrth",
+    "password": "$2b$10$Ayh7kJ/vluLBkepBNCOWV.bcQUco61qnK0d4CwDXz2OOfjN8GKeya",
+    "phone": "01201234567",
+    "age": 18,
+    "address": "bgfhdtyjgfg"
+  }
+]
