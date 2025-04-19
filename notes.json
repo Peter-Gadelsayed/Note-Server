@@ -90,237 +90,111 @@
     "tags": "djfhk,j"
   },
   {
-    "id": 1744229780901,
+    "id": 1742635026115,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "My First Note",
+    "content": "This is your very first note. You can use it to store ideas, reminders, tasks, or anything else you need to keep track of easily.",
+    "category": "General",
+    "priority": "Medium",
+    "tags": "intro, welcome"
   },
   {
-    "id": 1744231141700,
+    "id": 1742635026116,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Shopping List",
+    "content": "Buy milk, eggs, bread, and coffee. Don't forget to check if we need butter, fruits, or cleaning supplies before going to the grocery store today.",
+    "category": "Personal",
+    "priority": "High",
+    "tags": "shopping, home"
   },
   {
-    "id": 1744231142633,
+    "id": 1742635026117,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Meeting Notes",
+    "content": "Today’s meeting focused on aligning the team on upcoming deadlines, clarifying roles and responsibilities, and identifying any blockers to ensure smooth project progress.",
+    "category": "Work",
+    "priority": "Medium",
+    "tags": "meeting, work, project"
   },
   {
-    "id": 1744231143897,
+    "id": 1742635026118,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Workout Plan",
+    "content": "Start the week with strength training: chest on Monday, legs on Tuesday, and rest on Wednesday. Add cardio and stretching to improve flexibility and endurance.",
+    "category": "Fitness",
+    "priority": "Low",
+    "tags": "health, fitness"
   },
   {
-    "id": 1744231144713,
+    "id": 1742635026119,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Vacation Ideas",
+    "content": "Dream destinations include Japan during cherry blossom season, hiking in the Swiss Alps, or exploring the culture and markets of Marrakech in Morocco.",
+    "category": "Travel",
+    "priority": "Medium",
+    "tags": "travel, ideas"
   },
   {
-    "id": 1744231146572,
+    "id": 1742635026120,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Learning Goals",
+    "content": "Complete the Angular course this month. Build at least one complete project. Start learning TypeScript in-depth to boost productivity and code quality.",
+    "category": "Education",
+    "priority": "High",
+    "tags": "learning, angular"
   },
   {
-    "id": 1744379600705,
+    "id": 1742635026121,
     "email": "p@pp.com",
-    "title": "gregrehgtr",
-    "content": "erhrhetyikkfyulkuhkfkuykfmjyugkiukkmuk",
-    "category": "Category",
-    "priority": "medium",
-    "tags": "kgyukkk,hgjdyj,jydgyjgj,tjytjfyj"
+    "title": "Recipe - Pasta",
+    "content": "To cook delicious pasta, boil water, add salt, cook pasta until al dente, prepare sauce with garlic, tomato, and herbs, and mix everything before serving.",
+    "category": "Cooking",
+    "priority": "Low",
+    "tags": "food, recipe"
   },
   {
-    "id": 1744392362643,
+    "id": 1742635026122,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Birthday Gift Ideas",
+    "content": "Consider getting a smartwatch, a bestselling book, or noise-canceling headphones. Personalized gifts or experience-based surprises are also great and meaningful options.",
+    "category": "Personal",
+    "priority": "Medium",
+    "tags": "gift, ideas"
   },
   {
-    "id": 1744392362862,
+    "id": 1742635026123,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "App Bugs",
+    "content": "Fix the login issue that causes incorrect redirects. Address layout shifts on mobile devices and ensure all UI elements are responsive and properly aligned.",
+    "category": "Work",
+    "priority": "High",
+    "tags": "bug, tech"
   },
   {
-    "id": 1744392363073,
+    "id": 1742635026124,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Movie Watchlist",
+    "content": "Add these to the watchlist: Inception for mind-bending thrill, The Matrix for sci-fi action, and Interstellar for an emotional space adventure experience.",
+    "category": "Entertainment",
+    "priority": "Low",
+    "tags": "movies, watchlist"
   },
   {
-    "id": 1744392363262,
+    "id": 1744999151512,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
+    "title": "Birthday Gift Ideas",
+    "content": "Consider getting a smartwatch.",
+    "category": "Personal",
+    "priority": "Medium",
+    "tags": "gift, ideas"
   },
   {
-    "id": 1744392363470,
+    "id": 1744999161944,
     "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744392363761,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744392364194,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744392364389,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744392365195,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744468539091,
-    "email": "p@pp.com",
-    "title": "ghgjftj",
-    "content": "jfggjgygyugyug",
-    "category": "tdhtyjf",
-    "priority": "high",
-    "tags": "htjtkyj"
-  },
-  {
-    "id": 1744581797996,
-    "email": "p@pp.com",
-    "title": "jgdjhg",
-    "content": "ghgfjghmk,k,mghmn vnfdjxbvjdjfkbjkgszdubfjbdskjf busdbfhdhhvhjbdxhfg vhdfhgvhdgvhdvhfz gbsefjbjfdgbj gbzdhurubg fbdljgbxdbbgjrbjdgbj kdbjgksbjkrdbxgubrdubhjv bfdxbudbrufgbxdgbrdgburdxbgubdjfbx,d bjbjhbbfg fdgfdhghdh fgfdhf",
-    "category": "ubfubsugburbgsb",
-    "priority": "medium",
-    "tags": "hnjgf,rsghihsih,gjisrhi,jiohihi"
-  },
-  {
-    "id": 1744652378721,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "low",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744652387358,
-    "email": "p@pp.com",
-    "title": "xgfbnfcgf",
-    "content": " Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam ratione distinctio ducimus molestias ea fugiat iusto,   laudantium officia vel eius consequatur ipsa temporibus dolores unde eum alias, voluptates, vero voluptatibus!",
-    "category": "bfgcnbgnbvbmvbmbmvbm",
-    "priority": "high",
-    "tags": "vxfdbcfbf,sgrdfghdfh"
-  },
-  {
-    "id": 1744654373971,
-    "email": "sfdf@gdsd.com",
-    "title": "jytfjgh",
-    "content": "jnghmbmh",
-    "category": "ghmgh,mhjn",
-    "priority": "medium",
-    "tags": "djfhk,j"
-  },
-  {
-    "id": 1744654374126,
-    "email": "sfdf@gdsd.com",
-    "title": "jytfjgh",
-    "content": "jnghmbmh",
-    "category": "ghmgh,mhjn",
-    "priority": "low",
-    "tags": "djfhk,j"
-  },
-  {
-    "id": 1744654446908,
-    "email": "sfdf@gdsd.com",
-    "title": "jbj",
-    "content": "cgcgcgcggvhv",
-    "category": "Category",
-    "priority": "medium",
-    "tags": "vjvjh,ugugu"
-  },
-  {
-    "id": 1744902031579,
-    "email": "p@pp.com",
-    "title": "kkkkkkkk",
-    "content": "ngjnfjnjbngfnbklngkn kcgfklmkcglmnklh",
-    "category": "nghnhgcnvhjmvj",
-    "priority": "high",
-    "tags": "mjhm,hjfyujt"
-  },
-  {
-    "id": 1744902040775,
-    "email": "p@pp.com",
-    "title": "kkkkkkkk11",
-    "content": "ngjnfjnjbngfnbklngkn kcgfklmkcglmnklhkjuigkiu",
-    "category": "nghnhgcnvhjmvj",
-    "priority": "high",
-    "tags": "mjhm,hjfyujt"
-  },
-  {
-    "id": 1744973561354,
-    "email": "p@pp.com",
-    "title": "kkkkkkkk11",
-    "content": "ngjnfjnjbngfnbklngkn kcgfklmkcglmnklhkjuigkiu",
-    "category": "nghnhgcnvhjmvj",
-    "priority": "high",
-    "tags": "mjhm,hjfyujt"
+    "title": "Recipe - Pasta",
+    "content": "To cook delicious pasta, boil water, add salt, cook pasta until al dente, prepare sauce with garlic, tomato, and herbs, and mix everything before serving.",
+    "category": "Cooking",
+    "priority": "Low",
+    "tags": "food, recipe"
   }
 ]
